@@ -1,0 +1,27 @@
+[
+    {
+        "pic":"images/goodslist/itempic1.jpg",
+        "h4":"Alienware 24.5英寸电竞显示器<br/>AW2521h",
+        "h2":"IPS 360Hz无影电竞屏",
+        "p1":"360Hz刷新率 / 1ms响应时间 /<br/>Reflex延迟分析器+Gync",
+        "div":"￥5,999",
+        "img":"images/goodslist/buy.jpg"
+    },
+    {
+        "pic":"images/goodslist/ia_13500000005.jpg",
+        "h4":"Alienware 27英寸电竞显示器<br/>AW2721D",
+        "h2":"240Hz QHD疾速真彩屏",
+        "p1":"240Hz刷新率 / QHD 2K分辨率 /<br/> 98% DCI-P3 / HDR600 / G-Sync",
+        "div":"￥6,999",
+        "img":"images/goodslist/buy.jpg"
+    },
+    {
+        "pic":"images/goodslist/ia_13500000008.jpg",
+        "h4":"Alienware 37.5英寸电竞显示器<br/>AW3821DW",
+        "h2":"NANO IPS沉浸曲面屏",
+        "p1":"2300R曲面屏 / 准4K分辨率 /<br/>95% DCI-P3 / HDR600 / G-Sync",
+        "div":"￥14,999",
+        "img":"images/goodslist/buy.jpg"
+    }
+    
+]

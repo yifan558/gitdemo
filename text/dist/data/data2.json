@@ -1,0 +1,29 @@
+[
+    {
+        "pic":"images/goodslist/ia_13500000014.jpg",
+        "h4":"Alienware 27英寸电竞显示器<br/>AW2720HF",
+        "h2":"IPS 240Hz 疾速真彩屏",
+        "p1":"240Hz刷新率 / 1ms面板响应 / IPS广视角",
+        "div":"￥4,899<del>￥6,365</del>",
+        "img":"images/goodslist/buy.jpg",
+        "p2":""
+    },
+    {
+        "pic":"images/goodslist/ia_13500000017.jpg",
+        "h4":"Alienware 34英寸电竞显示器<br/>AW3420DW",
+        "h2":"2K IPS真彩曲面屏",
+        "p1":"IPS广视角 / DCI-P3广色域 / 流线曲面屏",
+        "div":"￥11,999<del>￥6,365</del>",
+        "img":"images/goodslist/buy.jpg",
+        "p2":""
+    },
+    {
+        "pic":"images/goodslist/ia_13500000020.jpg",
+        "h4":"Alienware 54.6英寸 OLED 游戏显示器<br/>AW5520QF",
+        "h2":"4K超清OLED屏 广色域 0.5ms",
+        "p1":"54.6英寸 OLED屏幕 / 0.5ms面板响应 /<br/>120Hz刷新 DCI-P3广色域",
+        "div":"￥14,999",
+        "img":"images/goodslist/buy.jpg",
+        "p2":"购机送510H耳机+510K键盘+610M鼠标"
+    }
+]

@@ -1,0 +1,219 @@
+{
+   "goodswrap":[
+       {
+           "title":"新品",
+           "child":[
+                {
+                    "id":0,
+                    "pic":"images/goodslist/itempic1.jpg",
+                    "h4":"Alienware 24.5英寸电竞显示器<br/>AW2521h",
+                    "h2":"IPS 360Hz无影电竞屏",
+                    "p1":"360Hz刷新率 / 1ms响应时间 /<br/>Reflex延迟分析器+Gync",
+                    "div":"￥5,999",
+                    "img":"images/goodslist/buy.jpg",
+                    "name":"Alienware 24.5英寸电竞显示器AW2521h"
+                    
+                },
+                {
+                    "id":1,
+                    "pic":"images/goodslist/ia_13500000005.jpg",
+                    "h4":"Alienware 27英寸电竞显示器<br/>AW2721D",
+                    "h2":"240Hz QHD疾速真彩屏",
+                    "p1":"240Hz刷新率 / QHD 2K分辨率 /<br/> 98% DCI-P3 / HDR600 / G-Sync",
+                    "div":"￥6,999",
+                    "img":"images/goodslist/buy.jpg",
+                    "name":"Alienware 27英寸电竞显示器AW2721D"
+                },
+                {
+                    "id":2,
+                    "pic":"images/goodslist/ia_13500000008.jpg",
+                    "h4":"Alienware 37.5英寸电竞显示器<br/>AW3821DW",
+                    "h2":"NANO IPS沉浸曲面屏",
+                    "p1":"2300R曲面屏 / 准4K分辨率 /<br/>95% DCI-P3 / HDR600 / G-Sync",
+                    "div":"￥14,999",
+                    "img":"images/goodslist/buy.jpg",
+                    "name":"Alienware 37.5英寸电竞显示器AW3821DW"
+                }
+           ]
+       }
+   ] ,
+   "goodswrap3":[
+       {
+           "title":"爆款",
+           "child":[
+                {
+                    "id":3,
+                    "pic":"images/goodslist/ia_13500000014.jpg",
+                    "h4":"Alienware 27英寸电竞显示器<br/>AW2720HF",
+                    "h2":"IPS 240Hz 疾速真彩屏",
+                    "p1":"240Hz刷新率 / 1ms面板响应 / IPS广视角",
+                    "div":"￥4,899",
+                    "img":"images/goodslist/buy.jpg",
+                    "name":"Alienware 27英寸电竞显示器"
+                },
+                {
+                    "id":4,
+                    "pic":"images/goodslist/ia_13500000017.jpg",
+                    "h4":"Alienware 34英寸电竞显示器<br/>AW3420DW",
+                    "h2":"2K IPS真彩曲面屏",
+                    "p1":"IPS广视角 / DCI-P3广色域 / 流线曲面屏",
+                    "div":"￥11,999",
+                    "img":"images/goodslist/buy.jpg",
+                    "name":"Alienware 34英寸电竞显示器"
+                },
+                {
+                    "id":5,
+                    "pic":"images/goodslist/ia_13500000020.jpg",
+                    "h4":"Alienware 54.6英寸 OLED 游戏显示器<br/>AW5520QF",
+                    "h2":"4K超清OLED屏 广色域 0.5ms",
+                    "p1":"54.6英寸 OLED屏幕 / 0.5ms面板响应 /<br/>120Hz刷新 DCI-P3广色域",
+                    "div":"￥11,999",
+                    "img":"images/goodslist/buy.jpg",
+                    "name":"Alienware 54.6英寸 OLED 游戏显示器"
+                }
+           ]
+       }
+   ],
+   "goodswrap4":[
+       {
+           "title":"电竞",
+           "child":[
+            {
+                "id":6,
+                "pic":"images/goodslist/ia_13500000023.jpg",
+                "h4":"Alienware RGB 游戏鼠标<br/>AW610M   月球暗面/星辰",
+                "h2":"双模设计 可编程按键<br/>人体工学设计",
+                "p1":"16000DPI 5档飞敏设置 / 350小时超长续航 /<br/>AlienFX RGB灯效",
+                "div":"￥849",
+                "img":"images/goodslist/buy.jpg",
+                "name":"Alienware RGB 游戏鼠标"
+            },
+            {
+                "id":7,
+                "pic":"images/goodslist/ia_13500000027.jpg",
+                "h4":"Alienware RGB 矮轴机械游戏键盘<br/>AW510K   月球暗面/星辰",
+                "h2":"5,000 万次击键寿命<br/>完全可编程按键",
+                "p1":"Cherry矮红轴 高度灵敏/AlienFX™RGB灯效/悬浮式键<br/>盘结构 纤薄紧凑",
+                "div":"￥1589",
+                "img":"images/goodslist/buy.jpg",
+                "name":"Alienware RGB 矮轴机械游戏键盘"
+            },
+            {
+                "id":8,
+                "pic":"images/goodslist/ia_13500000031.jpg",
+                "h4":"全新 Alienware 7.1 游戏耳机<br/>AW510H    月球暗面/星辰",
+                "h2":"澄澈音效<br/>时尚外观 运动面料",
+                "p1":"7.1 声道虚拟环绕声 / 沉浸式音频技术 / 舒适仿皮耳罩<br/>增强隔音效果",
+                "div":"￥859",
+                "img":"images/goodslist/buy.jpg",
+                "name":"全新 Alienware 7.1 游戏耳机"
+            },
+            {
+                "id":9,
+                "pic":"images/goodslist/ia_13500000035.jpg",
+                "h4":"Alienware RGB 游戏鼠标<br/>AW610M   月球暗面/星辰",
+                "h2":"双模设计 可编程按键<br/>人体工学设计",
+                "p1":"16000DPI 5档飞敏设置 / 350小时超长续航 /<br/>AlienFX RGB灯效",
+                "div":"￥849",
+                "img":"images/goodslist/buy.jpg",
+                "name":"Alienware RGB 游戏鼠标"
+            },
+            {
+                "id":10,
+                "pic":"images/goodslist/ia_13500000038.jpg",
+                "h4":"Alienware RGB 游戏鼠标<br/>AW610M   月球暗面/星辰",
+                "h2":"双模设计 可编程按键<br/>人体工学设计",
+                "p1":"16000DPI 5档飞敏设置 / 350小时超长续航 /<br/>AlienFX RGB灯效",
+                "div":"￥849",
+                "img":"images/goodslist/buy.jpg",
+                "name":"Alienware RGB 游戏鼠标"
+            },
+            {
+                "id":11,
+                "pic":"images/goodslist/ia_13500000041.jpg",
+                "h4":"Alienware RGB 游戏鼠标<br/>AW610M   月球暗面/星辰",
+                "h2":"双模设计 可编程按键<br/>人体工学设计",
+                "p1":"16000DPI 5档飞敏设置 / 350小时超长续航 /<br/>AlienFX RGB灯效",
+                "div":"￥849",
+                "img":"images/goodslist/buy.jpg",
+                "name":"Alienware RGB 游戏鼠标"
+            }
+           ]
+       }
+   ],
+   "goodswrap5":[
+       {
+           "title":"爆款",
+           "child":[
+                {
+                    "id":12,
+                    "pic":"images/goodslist/ia_13500000014.jpg",
+                    "h4":"Alienware 27英寸电竞显示器<br/>AW2720HF",
+                    "h2":"IPS 240Hz 疾速真彩屏",
+                    "p1":"240Hz刷新率 / 1ms面板响应 / IPS广视角",
+                    "div":"￥4,899",
+                    "img":"images/goodslist/buy.jpg",
+                    "name":"Alienware 27英寸电竞显示器"
+                },
+                {
+                    "id":13,
+                    "pic":"images/goodslist/ia_13500000017.jpg",
+                    "h4":"Alienware 34英寸电竞显示器<br/>AW3420DW",
+                    "h2":"2K IPS真彩曲面屏",
+                    "p1":"IPS广视角 / DCI-P3广色域 / 流线曲面屏",
+                    "div":"￥11,999",
+                    "img":"images/goodslist/buy.jpg",
+                    "name":"Alienware 34英寸电竞显示器"
+                },
+                {
+                    "id":14,
+                    "pic":"images/goodslist/ia_13500000020.jpg",
+                    "h4":"Alienware 54.6英寸 OLED 游戏显示器<br/>AW5520QF",
+                    "h2":"4K超清OLED屏 广色域 0.5ms",
+                    "p1":"54.6英寸 OLED屏幕 / 0.5ms面板响应 /<br/>120Hz刷新 DCI-P3广色域",
+                    "div":"￥11,999",
+                    "img":"images/goodslist/buy.jpg",
+                    "name":"Alienware 54.6英寸 OLED 游戏显示器"
+                }
+           ]
+       }
+   ],
+   "goodswrap6":[
+    {
+        "title":"新品",
+        "child":[
+             {
+                 "id":15,
+                 "pic":"images/goodslist/itempic1.jpg",
+                 "h4":"Alienware 24.5英寸电竞显示器<br/>AW2521h",
+                 "h2":"IPS 360Hz无影电竞屏",
+                 "p1":"360Hz刷新率 / 1ms响应时间 /<br/>Reflex延迟分析器+Gync",
+                 "div":"￥5,999",
+                 "img":"images/goodslist/buy.jpg",
+                 "name":"Alienware 24.5英寸电竞显示器"
+             },
+             {
+                 "id":16,
+                 "pic":"images/goodslist/ia_13500000005.jpg",
+                 "h4":"Alienware 27英寸电竞显示器<br/>AW2721D",
+                 "h2":"240Hz QHD疾速真彩屏",
+                 "p1":"240Hz刷新率 / QHD 2K分辨率 /<br/> 98% DCI-P3 / HDR600 / G-Sync",
+                 "div":"￥6,999",
+                 "img":"images/goodslist/buy.jpg",
+                 "name":"Alienware 27英寸电竞显示器"
+             },
+             {
+                 "id":17,
+                 "pic":"images/goodslist/ia_13500000008.jpg",
+                 "h4":"Alienware 37.5英寸电竞显示器<br/>AW3821DW",
+                 "h2":"NANO IPS沉浸曲面屏",
+                 "p1":"2300R曲面屏 / 准4K分辨率 /<br/>95% DCI-P3 / HDR600 / G-Sync",
+                 "div":"￥14,999",
+                 "img":"images/goodslist/buy.jpg",
+                 "name":"Alienware 37.5英寸电竞显示器"
+             }
+        ]
+    }
+]
+
+}
